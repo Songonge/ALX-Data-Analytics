@@ -1,5 +1,12 @@
 # Problem Impact Assessment
 
+## Table of Contents  
+1. [Groups Primarily Impacted](#Groups-Primarily-Impacted)
+2. [Effects on Each Group](#Effects-on-Each-Group)
+3. [Manifestation in Everyday Lives](#Manifestation-in-Everyday-Lives)
+4. [Changes in Quality of Life or Outcomes](#Changes-in-Quality-of-Life-or-Outcomes)
+5. [Changes in Quality of Life or Outcomes](#Changes-in-Quality-of-Life-or-Outcomes)
+
 **Problem**: Underrepresentation of women in leadership roles.
 
 ## Groups Primarily Impacted
