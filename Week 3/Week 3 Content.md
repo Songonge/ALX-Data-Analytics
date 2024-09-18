@@ -17,7 +17,7 @@
    * [Steps to Developing a Research Question](#Steps-to-developing-a-research-question)
 5. [Web Research](#Web-Research)
    * [Research Methodology](#Research-Methodology)
-6. [Leadership & Followership](#Leadership-\&-Followership)
+6. [Leadership and Followership](#Leadership-and-Followership)
 
 ## Problem Definition
 A problem is an unwanted situation that must be addressed or resolved to achieve the desired situation.
@@ -132,7 +132,7 @@ Similar to defining a problem, planning your research requires a set of key step
 6. Synthesize and communicate your key findings. What are the key takeaways that you want to share? How can you share them in such a way that provides the most impact?
 7. Return to your original objectives and key questions to ensure you have answered them appropriately. Have you found the answers you need or the direction you need to take?
 
-## Leadership & Followership
+## Leadership and Followership
 Leaders are people who influence others through inspiring ideas, motivation, clear goals, providing mentorship and guidance where needed, and setting a positive example. They are a critical part of a project’s success and growth. Many of us mistakenly understand “leadership” as the authority to wield power over “followers”. We couldn’t be more wrong!
 A good leader has the following traits:
 * **Honesty**: A strong team is built on mutual trust and high morale. It relies on its leaders for encouragement, direction, and inspiration. The leader needs to be honest in whatever they lead the team into and offer a transparent vision for the team.
