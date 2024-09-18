@@ -1,5 +1,21 @@
 # Week 3 Milestone Submission
 
+<!--  ## Table of Contents  
+1. [Introduction](#introduction)
+2. [Problem](#problem)
+3. [Project Aim](#project-aim)
+4. [Business Task](#business-task)
+   * [Project Objective](#project-objective)
+   * [Project Scope](#project-scope)
+   * [Key Questions](#key-questions)
+   * [Expected Outcomes](#expected-outcomes)
+   * [Success Metrics](#success-metrics)
+5. [Data Acquisition and Preparation](#data-acquisition-and-preparation)
+6. [Data Cleaning and Processing](#data-cleaning-and-processing)
+8. [Data Analysis and Visualization](#data-analysis-and-visualization)
+9. [Share](#share)
+10. [Act](#act) -->
+
 ## SECTION A: Problem Statement 
 
 
