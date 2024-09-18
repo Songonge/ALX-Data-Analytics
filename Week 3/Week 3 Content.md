@@ -65,6 +65,7 @@ This concept emphasizes the importance of balancing rationality and empathy in d
 
 The Cool Head, Warm Heart framework has six elements to consider (See the table below)
 |       |    COOL HEAD  | 	WARM HEART  |
+|   :-------  |  :-------  |  :-------  |
 | Frame	| Useful	|	Meaningful|
 |Altematlves |	Dlstlnct, doable	|	Creative, Interesting|
 |Information	| Reliable, relevant	|	Exploratory, moving |
@@ -83,6 +84,7 @@ The second problem-solving approach we will explore and practice is McKinsey’s
 
 ### Guide to Using each of the two problem-solving frameworks
 |framework	| Best to use when…  |
+|   :-------  |  :-------  |
 | McKinsey Problem Solving Framework	| <ul><li>The problem is extremely complex or multi-layered and needs to be broken down</li><li>There is a lot of background information/context that will affect the outcome of the problem & solution</li><li>The problem tends to be more business-oriented</li></ul> |
 | Cool Head, Warm Heart  |   <ul><li>The problem will significantly affect an individual or group of people</li><li>There are ethical considerations involved</li><li>The problem is high-profile and requires a balanced perspective that takes into account both logic and emotion</li></ul> |
 
