@@ -17,7 +17,7 @@
    * [Steps to Developing a Research Question](#Steps-to-developing-a-research-question)
 5. [Web Research](#Web-Research)
    * [Research Methodology](#Research-Methodology)
-6. [Leadership & Followership](#Leadership-Followership)
+6. [Leadership & Followership](#Leadership-\&-Followership)
 
 ## Problem Definition
 A problem is an unwanted situation that must be addressed or resolved to achieve the desired situation.
@@ -41,9 +41,9 @@ A well-written problem statement helps to establish a clear understanding of the
 
 ### Key elements of an effective problem statement
 * Create a succinct **problem description** (a more concise ‘what’ and possibly ‘when’)
-*	Indicate the specific **population** affected (a more concise ‘who’ and ‘where’)
-*	Explain the **impact** of the problem (cost, time, quality, environmental, personal, etc.). (a more concise ‘why’)
-*	Identify the **gap** that exists between present reality and the desired outcome. How would reality look if the problem were solved? (a more precise ‘how’)
+* Indicate the specific **population** affected (a more concise ‘who’ and ‘where’)
+* Explain the **impact** of the problem (cost, time, quality, environmental, personal, etc.). (a more concise ‘why’)
+* Identify the **gap** that exists between present reality and the desired outcome. How would reality look if the problem were solved? (a more precise ‘how’)
 
 ### Content of a Problem Statement
 Key elements of a problem statement are Problem Description, Population (location), Impact, and Gap between the current reality and the solved state.
