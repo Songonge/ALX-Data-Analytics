@@ -46,8 +46,9 @@ Your success as a team is at the top of our list so we put together a few guidel
 * Fairly contribute and divide the workload
 * Respect and value differences 
 * Foster trust and build relationships 
-* Set clear goals and expectations  
-Whatch this video for an [example of a successful team](https://youtu.be/hHIikHJV9fI)
+* Set clear goals and expectations
+
+Watch this video for an [example of a successful team](https://youtu.be/hHIikHJV9fI)
 
 ### Worst Practices for Working in a Team
 * Micromanaging
