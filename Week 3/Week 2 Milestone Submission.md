@@ -175,10 +175,22 @@ those in my research that come from respected sources such as Google Scholar, an
       4. Rey (2005) talked about current perspectives on gender and leadership, emphasizing the case of women and providing explanations regarding the gender differences in leadership.  
 
 29. Return to Your Original Objectives and Key Questions. 
-    * Key Questions: Revisit your initial objectives and key questions to ensure that your research findings adequately address them. Reflect on whether your findings have effectively contributed to solving the identified problem.
+    * **Key Questions**: Revisit your initial objectives and key questions to ensure that your research findings adequately address them. Reflect on whether your findings have effectively contributed to solving the identified problem.
 
     * **My Response**: Regarding the four sources that I highlighted above, they all address my initial objectives and key questions and effectively contribute to solving the problem of the underrepresentation of women in leadership positions. 
 
 ### Part 3: Research Summary 
+30. My Research Summary 
+ 
+The issue of gender disparity in leadership has been a subject of academic scrutiny for decades. Rey (2005) discussed the broad implications of gender and leadership, emphasizing that empowering women in leadership roles is critical for achieving gender equity and driving societal progress. The author highlighted the intersectionality of gender with other social categories, such as race and class, noting how these intersections further complicate the leadership landscape for women.  
+ 
+Hill et al. (2016) continued this exploration by providing a comprehensive overview of the barriers and biases that women encounter on their path to leadership. Their report from the American Association of University Women (AAUW) identified several key obstacles, including gender stereotypes, lack of mentoring, and organizational cultures that do not support women's leadership. They call for a multifaceted approach to address these challenges, including policy changes, organizational reforms, and cultural shifts that value diversity and inclusion.  
+ 
+Building on this foundation, Abendroth et al. (2017) delved into the specific issue of the gender earnings gap and women's access to power within organizations. Their study highlighted that while women have made substantial progress in entering various professional fields, their advancement to leadership positions remains limited. The research further identified structural and institutional barriers that contribute to the gender earnings gap, suggesting that more equitable access to leadership roles for women could help mitigate these disparities and promote gender equity in the workplace.  
+ 
+A recent perspective by Aina (2022) focused on the dynamics of women in leadership roles and the importance of creating supportive environments that facilitate women's advancement. The author pointed out that women leaders often face unique challenges, such as balancing professional and personal responsibilities, navigating organizational politics, and overcoming biases. She argued for the implementation of policies that promote work-life balance, mentorship programs, and leadership training tailored specifically to women. These policies will enhance women's representation in leadership, close the gender earnings gap, and benefit from the diverse perspectives and skills that women bring to leadership roles. 
 
-
+* Abendroth, A.-K., Melzer, S., Kalev, A., & Tomaskovic-Devey, D. (2017). Women at Work: Women’s Access to Power and the Gender Earnings Gap. ILR Review, 70(1), 190–222. https://doi.org/10.1177/0019793916668530 
+* Aina, A. T. (2022). Women in leadership roles. Women in Leadership Roles. https://www.academia.edu/74195221/Women_in_leadership_roles
+* Hill, C., Miller, K., Benson, K., & Handley, G. (2016). Barriers and Bias: The Status of Women in Leadership. American Association of University Women. https://eric.ed.gov/?id=ED585546 
+* Rey, C. de la. (2005). Gender, Women, and Leadership. Agenda: Empowering Women for Gender Equity, 65, 4–11. 
