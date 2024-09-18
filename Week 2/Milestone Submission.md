@@ -7,7 +7,7 @@
    * [My key strengths](#My-key-strengths)
    * [My pledge to further my development](#My-pledge-to-further-my-development)
    * [My core values as a leader](#My-core-values-as-a-leader)
-   * [My pledge to advance society’s greater good](#My-pledge-to-advance-society-'-s-greater-good)
+   * [My pledge to advance society’s greater good](#My-pledge-to-advance-societys-greater-good)
 4. [PART 3: Reflection on my Skills Map ](#part-3-reflection-on-my-skills-map)
 
 ## PART 1: Write down your PICS
