@@ -3,6 +3,12 @@
 ## Table of Content
 1. [PART 1: Write down your PICS](#part-1-write-down-your-PICS)
 2. [PART 2: Write down your Personal Mission Statement (by completing each of the statements below)](#part-2-write-down-your-personal-mission-statement-by-completing-each-of-the-statements-below)
+   * [My personal mission](#my-personal-mission)
+   * [My key strengths](#My-key-strengths)
+   * [My pledge to further my development](#My-pledge-to-further-my-development)
+   * [My core values as a leader](#My-core-values-as-a-leader)
+   * [My pledge to advance society’s greater good](#My-pledge-to-advance-society-s-greater-good)
+4. [PART 3: Reflection on my Skills Map ](#part-3-reflection-on-my-skills-map)
 
 ## PART 1: Write down your PICS
 | Passions: What would you get out of bed for in the morning if money wasn’t an issue?  | Interests: What are you most curious about?  |
