@@ -7,7 +7,7 @@
    * [Resources Available ](#Resources-Available )
    * [Barriers](#Barriers)
 4. [Step 4](#step-4)
-   * [20-Year Goal](#20-Year-Goal)
+   * [20-Year Goal](#20Year-Goal)
    * [10-Year Goal](#10-Year-Goal)
    * [5-Year Goal](#5-Year-Goal)
    * [1-Year Goal](#1-Year-Goal)
