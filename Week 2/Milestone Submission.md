@@ -1,8 +1,7 @@
 # Week 2 Milestone Submission
 
 ## PART 1: Write down your PICS
-| Passions:
-What would you get out of bed for in the morning if money wasn’t an issue?  | Interests: What are you most curious about?  |
+| Passions: What would you get out of bed for in the morning if money wasn’t an issue?  | Interests: What are you most curious about?  |
 | :-------------: | :-------------: | 
 | *	I would get out of bed because I have goals to achieve.
 *	I would get out of bed because I have a daily agenda to complete.	| * I am mostly curious about how to use data to enhance businesses, make better decisions, and improve lives.
