@@ -22,4 +22,4 @@
 9. How many minutes did you spend practicing Movement each day (Be honest!)
    * I spent practicing movement 11 minutes on alternate days of the week. I am still struggling to do it daily.
 10. If you did not do at least 20 minutes each day, what were the reasons? If you did, what were the reasons?
-   * I did less than 20 minutes. That is because the video I found is only 11 minutes. Moreover, it is the maximum amount of time I can dedicate now. 
+    * I did less than 20 minutes. That is because the video I found is only 11 minutes. Moreover, it is the maximum amount of time I can dedicate now. 
