@@ -1,8 +1,8 @@
 # Week 2 Milestone Submission
 
 ## Table of Content
-[PART 1: Write down your PICS](#part-1-write-down-your-PICS)
-[PART 2: Write down your Personal Mission Statement (by completing each of the statements below)](#part-2-write-down-your-personal-mission-statement-by-completing-each-of-the-statements-below))
+1. [PART 1: Write down your PICS](#part-1-write-down-your-PICS)
+2. [PART 2: Write down your Personal Mission Statement (by completing each of the statements below)](#part-2-write-down-your-personal-mission-statement-by-completing-each-of-the-statements-below)
 
 ## PART 1: Write down your PICS
 | Passions: What would you get out of bed for in the morning if money wasn’t an issue?  | Interests: What are you most curious about?  |
