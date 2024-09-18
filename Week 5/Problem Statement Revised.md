@@ -24,7 +24,7 @@ This a team project involving five members. We are tasked to propose solutions t
 
 **Chosen GCGO**: Women Empowerment
 
-**Problem**: There is the underrepresentation of women in leadership roles.
+**Problem**: There is an underrepresentation of women in leadership roles.
 
 ## Reflection
 Reflecting on the underrepresentation of women in leadership roles, here are three aspects that could be tackled:
@@ -56,7 +56,7 @@ By focusing on mentorship and sponsorship, organizations can directly address th
 Using the McKinsey Problem Statement Framework, my team and I will outline the different elements of our example problem and formulate a problem statement
 
 ### What is the problem?
-The underrepresentation of women in leadership roles, which is partly due to the lack of effective mentorship and sponsorship programs that can help women advance in their careers.
+The underrepresentation of women in leadership roles, is partly due to the lack of effective mentorship and sponsorship programs that can help women advance in their careers.
 
 ### Where and when does the problem occur? 
 The problem occurs across various tech industries and organizations in Cameroon, particularly in environments where women are underrepresented in senior leadership positions. It happens during critical career advancement stages when women need support and advocacy to move into leadership roles.
