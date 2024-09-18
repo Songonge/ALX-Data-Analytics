@@ -1,4 +1,5 @@
 # Week 3 Milestone Submission
+***
 
 <!--  ## Table of Contents  
 1. [Introduction](#introduction)
