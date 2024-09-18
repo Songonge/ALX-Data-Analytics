@@ -1,12 +1,12 @@
 # Week 2 Flow and Content
 This week we were introduced to several concepts such as:
-* Daily 3
-* Value and Empathy
-* Exploring African GCGOs
-* Self-Awareness and Emotional Intelligence
-* Growth Mindset and Grit
-* Self-Regulation and Improvement
-* Time Management
+* [Daily 3](#daily-3)
+* [Empathy](#empathy)
+* [Exploring African GCGOs](#global-challenges-and-global-opportunities)
+* [Self Awareness and Emotional Intelligence](#emotional-intelligence)
+* [Growth Mindset and Grit](#growth-mindset-and-grit)
+* [Self Regulation and Improvement](#self-regulation-and-improvement)
+* [Time Management](#time-management)
 
 ## Daily 3
 The Daily 3 is made of three things: Morning Pages, Movement, and Meditation.  
