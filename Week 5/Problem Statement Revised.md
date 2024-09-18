@@ -15,7 +15,7 @@
    * [Who is Affected?](#who-is-affected?)
    * [What will make a Solution Successful?](#What-will-make-a-solution-successful)
    * [What are the Boundaries of This Problem?](#What-are-the-boundaries-of-this-problem)
-   * [Who or what can Stop us from Implementing theSolution?](#Who-or-what-can-stop-us-from-implementing-the-solution)
+   * [Who or what can Stop us from Implementing the Solution?](#Who-or-what-can-stop-us-from-implementing-the-solution)
 6. [Problem Statement](#Problem-Statement)
 
 
@@ -79,7 +79,19 @@ Potential obstacles include resistance from existing leadership, who may be unaw
 ## Problem Statement
 The underrepresentation of women in leadership roles within our organization is a significant issue, largely due to the lack of effective mentorship and sponsorship programs that can support women’s career advancement. To address this, we need to implement structured programs that provide women with the necessary guidance, advocacy, and professional development opportunities. These programs must be supported by strong organizational commitment and tailored to overcome the unique challenges women face in their career progression.
 
+## Team members and roles
+*	**Edwige Songong**: Project Manager (Primary), Data Analyst (Backup)
+Monitor the overall project’s evolution, responsible for helping with scheduling, timing of work, and making sure each person is completing their tasks on time. Keeping track of action items and key deliverables.
+*	**Mookho Letlala**: Product Manager (primary), UX Researcher (Backup)
+Responsible for advocating for the solution, helping it take shape, and putting info from the UX researcher into action
+*	**Modupe Alebiosu**: Data Analyst (primary), Product Manager (backup)
+Responsible for finding and/or creating data visualizations that support understanding the problem, users, and the impact of a potential solution.
+*	**Shamzia Abdi**: UX Researcher (primary), Data Analyst (backup)
+Responsible for understanding how users are challenged by the problem.
+* **Oluseun Omobulejo**: UI-UX designer (primary), Data Analyst (backup)
+Responsible for making sure the graphics used are well inclined with the topic, and will also gather research on the matter to help out the team.
 
+Team’s name: #**SheInnovates**
 
 
 
