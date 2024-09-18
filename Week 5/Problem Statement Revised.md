@@ -10,12 +10,12 @@
    * [Equitable Recruitment and Promotion Practices](#Equitable-Recruitment-and-Promotion-Practices)
 4. [Our reasoning](#Our-reasoning)
 5. [The McKinsey Problem Statement Framework](#The-McKinsey-Problem-Statement-Framework)
-   * [What is the Problem? ](#What-is-the-problem?)
-   * [Where and when does the Problem Occur? ](#Where-and-when-does-the-problem-occur?)
+   * [What is the Problem? ](#What-is-the-problem)
+   * [Where and when does the Problem Occur? ](#Where-and-when-does-the-problem-occur)
    * [Who is Affected?](#who-is-affected?)
-   * [What will make a Solution Successful?](#What-will-make-a-solution-successful?)
-   * [What are the Boundaries of This Problem?](#What-are-the-boundaries-of-this-problem?)
-   * [Who or what can Stop us from Implementing theSolution?](#Who-or-what-can-stop-us-from-implementing-the-solution?)
+   * [What will make a Solution Successful?](#What-will-make-a-solution-successful)
+   * [What are the Boundaries of This Problem?](#What-are-the-boundaries-of-this-problem)
+   * [Who or what can Stop us from Implementing theSolution?](#Who-or-what-can-stop-us-from-implementing-the-solution)
 6. [Problem Statement](#Problem-Statement)
 
 
