@@ -5,7 +5,7 @@ This week we were introduced to several concepts such as:
 * [Exploring African GCGOs](#global-challenges-and-global-opportunities)
 * [Self Awareness and Emotional Intelligence](#emotional-intelligence)
 * [Growth Mindset and Grit](#growth-mindset-and-grit)
-* [Self Regulation and Improvement](#self-regulation-and-improvement)
+* [Self Regulation and Improvement](#self-regulation-and-self-improvement)
 * [Time Management](#time-management)
 
 ## Daily 3
