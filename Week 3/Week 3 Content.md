@@ -149,5 +149,12 @@ Qualities of a good follower include:
 * **Humble**: A good follower is humble and able to receive feedback, take directions, and deliver on their responsibilities.
 
 
+<br/><br/>
 
+**Thank you for taking the time to read this report!** 
+
+**Please reach out for any updates.**
+
+### Author
+[Edwige Songong](https://github.com/Songonge) Powered by [ALX Africa](https://www.alxafrica.com/)
 
