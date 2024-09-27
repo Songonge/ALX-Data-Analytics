@@ -13,6 +13,7 @@
 4. [Preparing for User Interviews](#Preparing-for-User-Interviews)
    * [Choosing Interviewees](#Choosing-Interviewees)
    * [Types of User Interview Questions](#Types-of-User-Interview-Questions)
+   * [Consent Form](#Consent-Form)
 5. [Data Acquisition and Preparation](#data-acquisition-and-preparation)
 6. [Data Cleaning and Processing](#data-cleaning-and-processing)
 8. [Data Analysis and Visualization](#data-analysis-and-visualization)
@@ -131,14 +132,25 @@ Following the screening process, we can set up interviews with the participants.
 Rule of thumb: A good interview generally allows deep, free-flowing conversations with the person you are interviewing
 | Question Type | Description |
 | :-------------------: | :---------- | 
-| Open-Discovery        |Example  <ul><li>“Tell me about…”</li><li>“Why do you…?”</li><li>“What are/ is…?”</li><li>“What… do you use/ do about?”</li><li>“Describe to me how you…/ your experience with…?”</li><li>“How often do you…”</li><li>“How much/ many…”</li></ul> |
-| Understanding User Tasks/ Activities             |Example   <ul><li>“How do you [task]…?” (Direct question)</li><li>“Describe how you would [task]?” (Indirect question)</li><li>“What are/ is…?”</li><li>“What are all the things you need to do and know in order to [task]?”</li><li>Sequential: “Walk me through the steps, how do you… [task]?”</li><li>Comparison: “What is the difference between [A] and [B]?”</li></ul>    |
-| Performing/ Showing               |Example   <ul><li>“Show me how you [task]” (Asking them to perform the task, share their screen, etc.)</li><li>Role-play: “Let’s pretend I’m your neighbor who knows nothing about [task].</li><li>Guide me so that I could do it myself afterward.</li></ul>   |
-| Talking about Problems and Pain Points  |Example   <ul><li>"How does this problem impact you?”</li><li>“How did you solve/ get around that issue?”</li><li>“What’s the hardest/ most frustrating part about…?”</li><li>“If you had a magic wand, what would you change?”</li></ul>   |
-| Opinions/ Points of View/Attitudes or Perceptions    |Example   <ul><li>“What do you think about…?”</li><li>“What do you like/ dislike about…?”</li><li>“What would your friend/ partner/ colleague think of that?”</li><li>“Some people….., other……, what is your opinion on that?”</li></ul>   |
-| Recalling the Past & Anticipating the Future    |Example   <ul><li>“Please recall a situation when you…, what did you do?”</li><li>“Tell me about your most significant/ memorable experience/ interaction with…?”</li><li>“How do you think… is going to help you?”</li><li>“Describe to me the ideal product/ experience….?”</li></ul>   |
-| Sentence Completion and Drawing               |Example   <ul><li>“Can you draw your thought process on [ABC]…?”</li><li>“Complete the sentence: the best place to eat is….?”</li></ul>   |
+| Open-Discovery        |Examples  <ul><li>“Tell me about…”</li><li>“Why do you…?”</li><li>“What are/ is…?”</li><li>“What… do you use/ do about?”</li><li>“Describe to me how you…/ your experience with…?”</li><li>“How often do you…”</li><li>“How much/ many…”</li></ul> |
+| Understanding User Tasks/ Activities             |Examples   <ul><li>“How do you [task]…?” (Direct question)</li><li>“Describe how you would [task]?” (Indirect question)</li><li>“What are/ is…?”</li><li>“What are all the things you need to do and know in order to [task]?”</li><li>Sequential: “Walk me through the steps, how do you… [task]?”</li><li>Comparison: “What is the difference between [A] and [B]?”</li></ul>    |
+| Performing/ Showing               |Examples   <ul><li>“Show me how you [task]” (Asking them to perform the task, share their screen, etc.)</li><li>Role-play: “Let’s pretend I’m your neighbor who knows nothing about [task].</li><li>Guide me so that I could do it myself afterward.</li></ul>   |
+| Talking about Problems and Pain Points  |Examples   <ul><li>"How does this problem impact you?”</li><li>“How did you solve/ get around that issue?”</li><li>“What’s the hardest/ most frustrating part about…?”</li><li>“If you had a magic wand, what would you change?”</li></ul>   |
+| Opinions/ Points of View/Attitudes or Perceptions    |Examples   <ul><li>“What do you think about…?”</li><li>“What do you like/ dislike about…?”</li><li>“What would your friend/ partner/ colleague think of that?”</li><li>“Some people….., other……, what is your opinion on that?”</li></ul>   |
+| Recalling the Past & Anticipating the Future    |Examples   <ul><li>“Please recall a situation when you…, what did you do?”</li><li>“Tell me about your most significant/ memorable experience/ interaction with…?”</li><li>“How do you think… is going to help you?”</li><li>“Describe to me the ideal product/ experience….?”</li></ul>   |
+| Sentence Completion and Drawing               |Examples   <ul><li>“Can you draw your thought process on [ABC]…?”</li><li>“Complete the sentence: the best place to eat is….?”</li></ul>   |
 
+### Consent Form
+Even though our user interviews are likely to be short and simple, it is a best practice to always get a consent form from our participants before conducting any user interview.
+Here is a simple consent form we can copy into a doc, print, and have each interviewee read and sign before we conduct our user interview:
+*	I consent to participate in this research project.
+*	The research may not be of direct benefit to me.
+*	My participation is completely voluntary.
+*	I have the right to withdraw from the study at any time without any implications to me.
+*	I agree to my interview being audio-recorded.
+*	I understand that all information I provide for this study will be treated confidentially.
+*	Signed:________________________
+*	Date: __________________
 
 
 
