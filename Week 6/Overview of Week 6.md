@@ -104,7 +104,7 @@ Customer: Whose decision-making or operational efficiency is indirectly influenc
 User: Whose insights and observations are crucial for understanding the nuances of the problem?
 Customer: Whose understanding of the problem may be shaped by reports, data, or external observations?
 
-5. **Long-Term Consequences of the Problem** <br/><br/>
+5. **Long-Term Consequences of the Problem**  
 User: Whose quality of life or work is continuously affected by the persistence of the problem?
 Customer: Whose strategic objectives or performance metrics are influenced by the ongoing existence of the problem?
 
