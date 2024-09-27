@@ -81,4 +81,11 @@ These are goals you want to have achieved 1 year from now that will help you ach
 2. One year from now, I will attend at least four industry conferences or workshops to enhance my knowledge of the consulting field and identify three potential mentors or partners for my future consulting firm.
 
 
+<br/><br/>
 
+**Thank you for taking the time to read this report!** 
+
+**Please reach out for any updates.**
+
+### Author
+[Edwige Songong](https://github.com/Songonge) 
