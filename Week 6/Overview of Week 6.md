@@ -59,7 +59,7 @@ An **empathy map** is a visual tool that shows a user’s responses during an in
 An empathy map typically consists of four quadrants that represent different aspects of the user’s experience: what the user says, does, thinks, and feels. The quadrants are further divided into sub-sections that help identify specific aspects of the user’s experience, such as their motivations, pain points, and goals.
 
 <figure>
-  <img src="https://github.com/Songonge/ALX-Data-Analytics/Week 6/blob/main/EmpathyMap.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/ALX-Data-Analytics/blob/main/Week 6/EmpathyMap.png" width=100% height=100% alt="alt text">
   <figcaption>Figure: Empathy Map</figcaption>
 </figure>
 <br/><br/>
