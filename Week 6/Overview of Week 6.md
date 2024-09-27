@@ -10,8 +10,9 @@
    * [Creating an Empathy Map](#Creating-an-Empathy-Map)
    * [Drawing Insights](#Drawing-Insights)
    * [Defining User vs Customer](#Defining-User-vs-Customer)
-   * [Expected Outcomes](#expected-outcomes)
-   * [Success Metrics](#success-metrics)
+4. [Preparing for User Interviews](#Preparing-for-User-Interviews)
+   * [Choosing Interviewees](#Choosing-Interviewees)
+   * [Types of User Interview Questions](#Types-of-User-Interview-Questions)
 5. [Data Acquisition and Preparation](#data-acquisition-and-preparation)
 6. [Data Cleaning and Processing](#data-cleaning-and-processing)
 8. [Data Analysis and Visualization](#data-analysis-and-visualization)
@@ -108,14 +109,35 @@ User: Whose quality of life or work is continuously affected by the persistence 
 Customer: Whose strategic objectives or performance metrics are influenced by the ongoing existence of the problem?
 
 > [!NOTE]
-> The answer to these questions will be your target user persona, which is also part of your Milestone # 6 submission in Section A, Step 2. Define this persona as a team, as this will affect who you will be interviewing this week (activity in the next module).
+> The answer to the above questions will be your target user persona, which is also part of your Milestone # 6 submission in Section A, Step 2. Define this persona as a team, as this will affect who you will be interviewing this week (activity in the next module).
 
+## Preparing for User Interviews
 
+### Choosing Interviewees
+Below is a special step-by-step guide on how to choose the right interviews.
+1. **Create a user persona**
+A user persona is a made-up individual who symbolizes our ideal user. By investigating the characteristics, objectives, motives, and pain points of our target users, we may develop a thorough user persona. This will assist us in establishing a list of requirements for choosing interviews.
 
+2. **Recruit participants**
+Once our research objectives have been established and a user persona has been developed, we may begin recruiting participants. There are many ways to find participants, including word-of-mouth, email, and social media.
 
+3. **Screen participants**
+Once possible participants have been found, we must screen them to make sure they meet the requirements for our user persona. A screening questionnaire can be used to learn more about a person’s demographics, product usage, and behavior. To determine their fit, we can also do a quick phone or video interview.
 
+4. **Schedule interviews**
+Following the screening process, we can set up interviews with the participants. Make sure we provide participants with detailed directions on how to join the interview and what to anticipate. To make scheduling simpler, think about utilizing a program like Calendly. 
 
-
+### Types of User Interview Questions
+Rule of thumb: A good interview generally allows deep, free-flowing conversations with the person you are interviewing
+| Question Type | Description |
+| :-------------------: | :---------- | 
+| Open-Discovery        | <ul><li>“Tell me about…”</li><li>“Why do you…?”</li><li>“What are/ is…?”</li><li>“What… do you use/ do about?”</li><li>“Describe to me how you…/ your experience with…?”</li><li>“How often do you…”</li><li>“How much/ many…”</li></ul> |
+| Understanding User Tasks/ Activities             | <ul><li>“How do you [task]…?” (Direct question)</li><li>“Describe how you would [task]?” (Indirect question)</li><li>“What are/ is…?”</li><li>“What are all the things you need to do and know in order to [task]?”</li><li>Sequential: “Walk me through the steps, how do you… [task]?”</li><li>Comparison: “What is the difference between [A] and [B]?”</li></ul>    |
+| Performing/ Showing               | <ul><li>“Show me how you [task]” (Asking them to perform the task, share their screen, etc.)</li><li>Role-play: “Let’s pretend I’m your neighbor who knows nothing about [task].</li><li>Guide me so that I could do it myself afterward.</li></ul>   |
+| Talking about Problems and Pain Points  | <ul><li>"How does this problem impact you?”</li><li>“How did you solve/ get around that issue?”</li><li>“What’s the hardest/ most frustrating part about…?”</li><li>“If you had a magic wand, what would you change?”</li></ul>   |
+| Opinions/ Points of View/Attitudes or Perceptions    | <ul><li>“What do you think about…?”</li><li>“What do you like/ dislike about…?”</li><li>“What would your friend/ partner/ colleague think of that?”</li><li>“Some people….., other……, what is your opinion on that?”</li></ul>   |
+| Recalling the Past & Anticipating the Future    | <ul><li>“Please recall a situation when you…, what did you do?”</li><li>“Tell me about your most significant/ memorable experience/ interaction with…?”</li><li>“How do you think… is going to help you?”</li><li>“Describe to me the ideal product/ experience….?”</li></ul>   |
+| Sentence Completion and Drawing               | <ul><li>“Can you draw your thought process on [ABC]…?”</li><li>“Complete the sentence: the best place to eat is….?”</li></ul>   |
 
 
 
