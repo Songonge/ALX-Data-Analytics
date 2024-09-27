@@ -18,7 +18,7 @@
 10. [Act](#act) -->
 
 ## Introduction
-This week, my team and I revisit and build upon some previous weeks content, and acquire new skills that we can apply to advance our team project. It is a week for building skills that will set each of us apart and serve us in the workplace for years to come. 
+This week, my team and I revisit and build upon some previous weeks' content, and acquire new skills that we can apply to advance our team project. It is a week for building skills that will set each of us apart and serve us in the workplace for years to come. 
 
 ## Human-Centered Design
 **Human-centered Design** is described as a way of solving problems where deep empathy and understanding of people are at the center of the process of finding and developing the solution. This approach has been in existence since the early 1990s and was made popular by the company IDEO and the Stanford University d.school.
@@ -57,15 +57,14 @@ Concerning the “U” step of the B.U.I.L.D framework and the key principles of
 An **empathy map** is a visual tool that shows a user’s responses during an interview. It helps designers understand their users' needs, thoughts, and feelings. It is typically used during the user research and ideation stages of a design process to create a shared understanding of the user’s experience and to inform the design process.
 
 An empathy map typically consists of four quadrants that represent different aspects of the user’s experience: what the user says, does, thinks, and feels. The quadrants are further divided into sub-sections that help identify specific aspects of the user’s experience, such as their motivations, pain points, and goals. The following figure shows an [empathy map](https://th.bing.com/th/id/OIP.FoZELdtU-kb48rsBn2iC5QAAAA?rs=1&pid=ImgDetMain).
-
 <figure>
   <img src="https://github.com/Songonge/ALX-Data-Analytics/blob/main/Week 6/EmpathyMap.jpg" width=50% height=50% alt="alt text">
   <figcaption>Figure: Empathy Map </figcaption>
 </figure> 
 <br/><br/>
 
-
-
+> [!IMPORTANT]
+> Using an empathy map gives designers a deeper understanding of their users’ needs, behaviors, and emotions. This information can then be used to inform design decisions and create solutions that meet the needs and expectations of the user.
 
 
 
