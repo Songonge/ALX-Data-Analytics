@@ -2,12 +2,13 @@
 
 <!--  ## Table of Contents  
 1. [Introduction](#introduction)
-2. [Human-Centered Design](#Human-Centered-Design)
-3. [B.U.I.L.D. Framework](#B-U-I-L-D-Framework)
-4. [Design Thinking](#Design-Thinking)
-4. [Getting to Know Your User](#Getting-to-Know-Your-User)
-   * [Project Objective](#project-objective)
-   * [Project Scope](#project-scope)
+2. [Understanding the User](#Understanding-the-User)
+   * [Human-Centered Design](#Human-Centered-Design)
+   * [B.U.I.L.D. Framework](#B-U-I-L-D-Framework)
+   * [Design Thinking](#Design-Thinking)
+3. [Getting to Know Your User](#Getting-to-Know-Your-User)
+   * [Creating an Empathy Map](#Creating-an-Empathy-Map)
+   * [Drawing Insights](#Drawing-Insights)
    * [Key Questions](#key-questions)
    * [Expected Outcomes](#expected-outcomes)
    * [Success Metrics](#success-metrics)
@@ -20,10 +21,12 @@
 ## Introduction
 This week, my team and I revisit and build upon some previous weeks' content, and acquire new skills that we can apply to advance our team project. It is a week for building skills that will set each of us apart and serve us in the workplace for years to come. 
 
-## Human-Centered Design
+## Understanding the User
+
+### Human-Centered Design
 **Human-centered Design** is described as a way of solving problems where deep empathy and understanding of people are at the center of the process of finding and developing the solution. This approach has been in existence since the early 1990s and was made popular by the company IDEO and the Stanford University d.school.
 
-## B.U.I.L.D. Framework
+### B.U.I.L.D. Framework
 The African Leadership Academy (ALA) modified the Human-centered Design approach to come up with the B.U.I.L.D. Framework.
 
 B.U.I.L.D stands for:
@@ -33,7 +36,7 @@ B.U.I.L.D stands for:
 *	**Listen**: Get feedback from your users on your MVP / prototype and modify it as needed.
 *	**Deliver**: Continue to deliver refined versions of your MVP / prototype and improve it over time!
 
-## Design Thinking
+### Design Thinking
 Underlying both the Human Centered Design and the B.U.I.L.D concepts is a methodology called **Design Thinking**. Design Thinking provides a way to solve complex problems by understanding human needs, reframing the issue in a human-centric way, generating multiple ideas through brainstorming and creative thinking, and testing out ideas through prototyping and innovation.
 
 The 5 stages of Design Thinking are:
@@ -65,6 +68,14 @@ An empathy map typically consists of four quadrants that represent different asp
 
 > [!IMPORTANT]
 > Using an empathy map gives designers a deeper understanding of their users’ needs, behaviors, and emotions. This information can then be used to inform design decisions and create solutions that meet the needs and expectations of the user.
+
+### Drawing Insights
+A logical step to get insights from my data would be to:
+* **Step 1**: Analyze the information in front of you and look for patterns, contradictions, and opportunities for innovation. For example, if several users mentioned a specific pain point, this could be a potential opportunity for improvement.
+* **Step 2**: Group similar insights together to create clear themes. This will help you identify the most significant user needs and priorities.
+* **Step 3**: Prioritize the insights based on their importance to the user and their potential impact on the designed product or service.
+* **Step 4**: Use the insights to inform your design decisions. Make sure to focus on the user’s perspective and avoid assumptions.
+
 
 
 
