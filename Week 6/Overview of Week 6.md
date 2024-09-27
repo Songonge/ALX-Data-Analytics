@@ -1,6 +1,6 @@
 # Week 5 Flow and Content
 
-<!--  ## Table of Contents  
+## Table of Contents  
 1. [Introduction](#introduction)
 2. [Understanding the User](#Understanding-the-User)
    * [Human-Centered Design](#Human-Centered-Design)
@@ -9,7 +9,7 @@
 3. [Getting to Know Your User](#Getting-to-Know-Your-User)
    * [Creating an Empathy Map](#Creating-an-Empathy-Map)
    * [Drawing Insights](#Drawing-Insights)
-   * [Key Questions](#key-questions)
+<!--   * [Key Questions](#key-questions)
    * [Expected Outcomes](#expected-outcomes)
    * [Success Metrics](#success-metrics)
 5. [Data Acquisition and Preparation](#data-acquisition-and-preparation)
