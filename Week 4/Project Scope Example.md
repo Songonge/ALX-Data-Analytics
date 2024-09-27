@@ -41,3 +41,13 @@ Splitting a restaurant bill among friends can be a frustrating and time-consumin
 
 ## Revised Problem Statement
 In social dining settings, splitting the restaurant bill among friends can lead to confusion, delays, and frustration, particularly when different payment methods and uneven contributions are involved. The process is often inefficient, causing unnecessary stress. To address this issue, we need to develop a user-friendly payment app that simplifies and automates the bill-splitting process. This app will calculate each person’s share, accommodate various payment methods, and handle different tipping customs, ensuring a fair and uniform experience for all users.
+
+
+<br/><br/>
+
+**Thank you for taking the time to read this report!** 
+
+**Please reach out for any updates.**
+
+### Author
+[Edwige Songong](https://github.com/Songonge) Powered by [ALX Africa](https://www.alxafrica.com/)
