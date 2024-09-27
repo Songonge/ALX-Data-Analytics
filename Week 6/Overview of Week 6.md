@@ -87,24 +87,23 @@ A **Customer**, on the other hand, is someone who pays for a product or service.
 This team activity forms part of this week's Milestone submission.
 Here, we need to refer back to the problem that our team chose to work on (Recall: the problem is "the underrepresentation of women in leadership roles"). Based on the problem that we identified, define our users by thinking through the following questions. These questions are used to define the user persona that we are solving the problem for.
 
-1. **Who Experiences the Problem Directly?**
+1. **Who Experiences the Problem Directly?**  
 User: Who directly encounters or is affected by the problem statement?
 Customer: Whose awareness of the problem may come from reports or observations?
 
-2. **Whose Pain Points Are Addressed by Solving the Problem?**
+2. **Whose Pain Points Are Addressed by Solving the Problem?**  
 User: Whose specific challenges or frustrations will be alleviated by solving the problem?
 Customer: Whose strategic goals or concerns align with the resolution of this problem?
 
-3. **Direct vs. Indirect Impact**
+3. **Direct vs. Indirect Impact**  
 User: Whose daily life, tasks, or experiences are directly impacted by the existence of the problem?
 Customer: Whose decision-making or operational efficiency is indirectly influenced by the problem?
 
-4. **Feedback on the Problem**
-
+4. **Feedback on the Problem**  
 User: Whose insights and observations are crucial for understanding the nuances of the problem?
 Customer: Whose understanding of the problem may be shaped by reports, data, or external observations?
 
-5. **Long-Term Consequences of the Problem**  
+5. **Long-Term Consequences of the Problem**    
 User: Whose quality of life or work is continuously affected by the persistence of the problem?
 Customer: Whose strategic objectives or performance metrics are influenced by the ongoing existence of the problem?
 
