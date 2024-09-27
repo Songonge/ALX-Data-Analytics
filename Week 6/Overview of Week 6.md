@@ -9,14 +9,14 @@
 3. [Getting to Know Your User](#Getting-to-Know-Your-User)
    * [Creating an Empathy Map](#Creating-an-Empathy-Map)
    * [Drawing Insights](#Drawing-Insights)
-<!--   * [Key Questions](#key-questions)
+   * [Defining User vs Customer](#Defining-User-vs-Customer)
    * [Expected Outcomes](#expected-outcomes)
    * [Success Metrics](#success-metrics)
 5. [Data Acquisition and Preparation](#data-acquisition-and-preparation)
 6. [Data Cleaning and Processing](#data-cleaning-and-processing)
 8. [Data Analysis and Visualization](#data-analysis-and-visualization)
 9. [Share](#share)
-10. [Act](#act) -->
+10. [Act](#act) 
 
 ## Introduction
 This week, my team and I revisit and build upon some previous weeks' content, and acquire new skills that we can apply to advance our team project. It is a week for building skills that will set each of us apart and serve us in the workplace for years to come. 
@@ -76,7 +76,39 @@ A logical step to get insights from my data would be to:
 * **Step 3**: Prioritize the insights based on their importance to the user and their potential impact on the designed product or service.
 * **Step 4**: Use the insights to inform your design decisions. Make sure to focus on the user’s perspective and avoid assumptions.
 
+### Defining User vs Customer
+In problem-solving, market research, and design thinking the User is different from the Customer.
 
+A **User** is any individual who uses a particular product or service, regardless of whether they pay for it or not. For example, someone who uses a free social media platform would still be considered a user. In design thinking, a user refers to someone who interacts with a product or service, regardless of whether they pay for it or not. The focus is on understanding their needs, wants, behaviors, and pain points to create a better user experience. The goal is to create a solution that meets the user’s needs and helps them achieve their goals.
+
+A **Customer**, on the other hand, is someone who pays for a product or service. They are usually purchasing something from a business, and the transaction involves an exchange of money. In design thinking, the focus is to understand their buying behaviors, motivations, and preferences to create a product or service that meets their needs and solves their problems. The goal is to create a solution that generates revenue for the business and creates value for the customer.
+
+## Team Activity: Defining Target User
+This team activity forms part of this week's Milestone submission.
+Here, we need to refer back to the problem that our team chose to work on (Recall: the problem is "the underrepresentation of women in leadership roles"). Based on the problem that we identified, define our users by thinking through the following questions. These questions are used to define the user persona that we are solving the problem for.
+
+1. **Who Experiences the Problem Directly?**
+User: Who directly encounters or is affected by the problem statement?
+Customer: Whose awareness of the problem may come from reports or observations?
+
+2. **Whose Pain Points Are Addressed by Solving the Problem?**
+User: Whose specific challenges or frustrations will be alleviated by solving the problem?
+Customer: Whose strategic goals or concerns align with the resolution of this problem?
+
+3. **Direct vs. Indirect Impact**
+User: Whose daily life, tasks, or experiences are directly impacted by the existence of the problem?
+Customer: Whose decision-making or operational efficiency is indirectly influenced by the problem?
+
+4. **Feedback on the Problem**
+User: Whose insights and observations are crucial for understanding the nuances of the problem?
+Customer: Whose understanding of the problem may be shaped by reports, data, or external observations?
+
+5. **Long-Term Consequences of the Problem**
+User: Whose quality of life or work is continuously affected by the persistence of the problem?
+Customer: Whose strategic objectives or performance metrics are influenced by the ongoing existence of the problem?
+
+> [!NOTE]
+> The answer to these questions will be your target user persona, which is also part of your Milestone # 6 submission in Section A, Step 2. Define this persona as a team, as this will affect who you will be interviewing this week (activity in the next module).
 
 
 
