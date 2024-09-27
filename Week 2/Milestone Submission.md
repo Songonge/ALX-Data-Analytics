@@ -55,7 +55,14 @@ I pledge to advance society’s greater good by:
 * How much do you agree with the following statement: “The knowledge and skills I have learned in the past week will serve me in the workplace.” (1= completely disagree, 4= completely agree.): 3
 
 
+<br/><br/>
 
+**Thank you for taking the time to read this report!** 
+
+**Please reach out for any updates.**
+
+### Author
+[Edwige Songong](https://github.com/Songonge) Powered by [ALX Africa](https://www.alxafrica.com/)
 
 
 
