@@ -20,6 +20,7 @@
 6. [Making Decisions](#Making-Decisions)
    * [Evidence-Based Reasoning](#Evidence-Based-Reasoning)
    * [Introduction to Logic](#Introduction-to-Logic)
+     * [Deductive and Inductive Logic](#Deductive-and-Inductive-Logic)
 8. [Data Analysis and Visualization](#data-analysis-and-visualization)
 9. [Share](#share)
 10. [Act](#act) 
