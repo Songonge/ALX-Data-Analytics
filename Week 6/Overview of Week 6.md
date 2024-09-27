@@ -184,14 +184,14 @@ SCAMPER stands for the following:
 7. **R**everse
 
 ## Making Decisions
-### Evidence-Based Reasoning
+### A Evidence-Based Reasoning
 Our team will be making a lot of decisions together including which solution we’d like to work on, what user interview questions to ask, and how our wireframes or prototype will look and function.
 
 Usually, when we’re trying to make a decision (as opposed to generating ideas), we should be using convergent thinking, which is intentionally trying to narrow down our choices. But how, exactly, do we go about doing that? Typically you use logic and evidence-based reasoning.
 
 **Evidence-based reasoning** is about making decisions and forming arguments based on objective evidence rather than personal opinions or biases. It requires you to use reliable information and data to support your reasoning. It is a key component of critical thinking that can help you make better decisions and form a stronger argument.
 
-### Introduction to Logic
+### B. Introduction to Logic
 Logic is another tool for critical thinking that you can use when evaluating choices and help you make good decisions.
 
 #### Deductive and Inductive Logic
