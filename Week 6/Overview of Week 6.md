@@ -70,7 +70,7 @@ An empathy map typically consists of four quadrants that represent different asp
 
 
 
-[^1]: [Empathy Map](mungfali.com)
+[^1]: Empathy Map
 
 
 
