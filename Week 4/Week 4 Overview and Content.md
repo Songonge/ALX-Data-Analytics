@@ -146,4 +146,11 @@ An effective project scope statement will include the following elements:
 *	**Constraints** - blockers to success
 *	**Assumptions** - what you assume is true
 
+<br/><br/>
 
+**Thank you for taking the time to read this report!** 
+
+**Please reach out for any updates.**
+
+### Author
+[Edwige Songong](https://github.com/Songonge) Powered by [ALX Africa](https://www.alxafrica.com/)
