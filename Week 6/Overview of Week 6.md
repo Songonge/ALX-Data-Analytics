@@ -14,8 +14,12 @@
    * [Choosing Interviewees](#Choosing-Interviewees)
    * [Types of User Interview Questions](#Types-of-User-Interview-Questions)
    * [Consent Form](#Consent-Form)
-5. [Data Acquisition and Preparation](#data-acquisition-and-preparation)
-6. [Data Cleaning and Processing](#data-cleaning-and-processing)
+5. [Solution Generation](#Solution-Generation)
+   * [Divergent vs. Convergent Thinking](#Divergent-vs-Convergent-Thinking)
+   * [The SCAMPER technique](#The-SCAMPER-technique)
+6. [Making Decisions](#Making-Decisions)
+   * [Evidence-Based Reasoning](#Evidence-Based-Reasoning)
+   * [Introduction to Logic](#Introduction-to-Logic)
 8. [Data Analysis and Visualization](#data-analysis-and-visualization)
 9. [Share](#share)
 10. [Act](#act) 
@@ -152,13 +156,59 @@ Here is a simple consent form we can copy into a doc, print, and have each inter
 *	Signed:________________________
 *	Date: __________________
 
+## Solution Generation
+Now that we have conducted our interviews and developed a much deeper understanding of the problem we are solving, we can start thinking of creative solutions. Creative innovation is the process of generating new, out-of-box solutions to a problem. Those solutions are innovative (novel, pushing the boundaries of what has been done before.)
 
+### Divergent vs. Convergent Thinking
+Divergent Thinking and Convergent Thinking are two types of mental processes that people use to solve problems or generate ideas. We use both all the time, even if we are not aware of what they are called.
+And, we are definitely NOT talking about this Divergent:
 
+**Divergent Thinking is**  
+*	Thinking from a place of creative possibility, free from any criticism and practical constraints. It is coming out with ideas.
+*	A way of generating a lot of ideas and possibilities, exploring a wide range of potential ideas.
 
+**Convergent Thinking is**  
+*	Thinking logically to evaluate different options. Taking ideas and coming out with a solution.
+*	An analytical approach that takes into account practical constraints to narrow down choices.
 
+### The SCAMPER technique
+Here is another method for ideation that you and your team might find useful. It’s called the “SCAMPER technique”. It will not work for every ideation process but is a good one to know and keep in your back pocket for future use.
+SCAMPER stands for the following:
+1. **S**ubstitute
+2. **C**ombine
+3. **A**dapt
+4. **M**odify
+5. **P**ut to other use
+6. **E**liminate
+7. **R**everse
 
+## Making Decisions
+### Evidence-Based Reasoning
+Our team will be making a lot of decisions together including which solution we’d like to work on, what user interview questions to ask, and how our wireframes or prototype will look and function.
 
+Usually, when we’re trying to make a decision (as opposed to generating ideas), we should be using convergent thinking, which is intentionally trying to narrow down our choices. But how, exactly, do we go about doing that? Typically you use logic and evidence-based reasoning.
 
+**Evidence-based reasoning** is about making decisions and forming arguments based on objective evidence rather than personal opinions or biases. It requires you to use reliable information and data to support your reasoning. It is a key component of critical thinking that can help you make better decisions and form a stronger argument.
+
+### Introduction to Logic
+Logic is another tool for critical thinking that you can use when evaluating choices and help you make good decisions.
+
+#### Deductive and Inductive Logic
+1. **Deductive reasoning**  
+In deductive logic, if constructed properly, if both premises are true, then the conclusion is true.
+
+Examples of Deductive Reasoning:  
+*	All men are mortal. Michael is a man. Therefore Michael is mortal.
+*	All bald men are grandfathers. Aime is bald. Therefore Aime is a grandfather.
+*	All facilitators are kind. Demi is a facilitator. Therefore Demi is kind.
+
+2. **Inductive reasoning**  
+In inductive reasoning, a conclusion is drawn from generalizing based on a specific observation. The conclusion may or may not be correct. It is a bottom-up logic for solving problems.
+
+Examples of Inductive Reasoning:  
+*	Yesterday, 90% of my customers in Dubai were interested in the chocolate mint ice cream. Therefore, most of my customers in Dubai like chocolate mint ice cream.
+*	Jane is tall… Jane plays hockey… Therefore all hockey players are tall.
+*	Muchoki is a grandfather… Muchoki is bald… Hence all grandfathers are bald.
 
 
 
