@@ -33,3 +33,11 @@ The underrepresentation of women in leadership roles negatively affects their qu
 * Harvard Business Review. (2016). The Other Diversity Dividend. Retrieved from HBR Article.
 * World Economic Forum. (2020). Global Gender Gap Report 2020. Retrieved from WEF Report.
 
+<br/><br/>
+
+**Thank you for taking the time to read this report!** 
+
+**Please reach out for any updates.**
+
+### Author
+[Edwige Songong](https://github.com/Songonge) 
