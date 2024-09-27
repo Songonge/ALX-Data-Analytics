@@ -187,7 +187,14 @@ When the 2 approaches – Assertiveness and Cooperativeness – are combined in 
 *	Compromising: A medium amount of both approaches 
 
 
+<br/><br/>
 
+**Thank you for taking the time to read this report!** 
+
+**Please reach out for any updates.**
+
+### Author
+[Edwige Songong](https://github.com/Songonge) Powered by [ALX Africa](https://www.alxafrica.com/)
 
 
 
