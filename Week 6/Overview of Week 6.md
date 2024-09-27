@@ -56,12 +56,12 @@ Concerning the “U” step of the B.U.I.L.D framework and the key principles of
 ### Creating an Empathy Map
 An **empathy map** is a visual tool that shows a user’s responses during an interview. It helps designers understand their users' needs, thoughts, and feelings. It is typically used during the user research and ideation stages of a design process to create a shared understanding of the user’s experience and to inform the design process.
 
-An empathy map typically consists of four quadrants that represent different aspects of the user’s experience: what the user says, does, thinks, and feels. The quadrants are further divided into sub-sections that help identify specific aspects of the user’s experience, such as their motivations, pain points, and goals.
+An empathy map typically consists of four quadrants that represent different aspects of the user’s experience: what the user says, does, thinks, and feels. The quadrants are further divided into sub-sections that help identify specific aspects of the user’s experience, such as their motivations, pain points, and goals. [^1]
 
 <figure>
   <img src="https://github.com/Songonge/ALX-Data-Analytics/blob/main/Week 6/EmpathyMap.jpg" width=75% height=75% alt="alt text">
   <figcaption>Figure: Empathy Map </figcaption>
-</figure> [^1]
+</figure> 
 <br/><br/>
 
 
