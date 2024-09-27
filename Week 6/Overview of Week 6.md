@@ -60,7 +60,7 @@ An empathy map typically consists of four quadrants that represent different asp
 
 <figure>
   <img src="https://github.com/Songonge/ALX-Data-Analytics/blob/main/Week 6/EmpathyMap.jpg" width=75% height=75% alt="alt text">
-  <figcaption>Figure: Empathy Map</figcaption>
+  <figcaption>Figure: Empathy Map [^1]</figcaption>
 </figure>
 <br/><br/>
 
@@ -70,7 +70,7 @@ An empathy map typically consists of four quadrants that represent different asp
 
 
 
-
+[^1]: [Empathy Map](mungfali.com)
 
 
 
