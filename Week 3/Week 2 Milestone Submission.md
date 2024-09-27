@@ -211,3 +211,14 @@ A recent perspective by Aina (2022) focused on the dynamics of women in leadersh
 * Aina, A. T. (2022). Women in leadership roles. Women in Leadership Roles. https://www.academia.edu/74195221/Women_in_leadership_roles
 * Hill, C., Miller, K., Benson, K., & Handley, G. (2016). Barriers and Bias: The Status of Women in Leadership. American Association of University Women. https://eric.ed.gov/?id=ED585546 
 * Rey, C. de la. (2005). Gender, Women, and Leadership. Agenda: Empowering Women for Gender Equity, 65, 4–11. 
+
+
+
+<br/><br/>
+
+**Thank you for taking the time to read this report!** 
+
+**Please reach out for any updates.**
+
+### Author
+[Edwige Songong](https://github.com/Songonge) Powered by [ALX Africa](https://www.alxafrica.com/)
