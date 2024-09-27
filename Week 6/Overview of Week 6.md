@@ -21,9 +21,6 @@
    * [Evidence-Based Reasoning](#A-Evidence-Based-Reasoning)
    * [Introduction to Logic](#B-Introduction-to-Logic)
      * [Deductive and Inductive Logic](#Deductive-and-Inductive-Logic)
-8. [Data Analysis and Visualization](#data-analysis-and-visualization)
-9. [Share](#share)
-10. [Act](#act) 
 
 ## Introduction
 This week, my team and I revisit and build upon some previous weeks' content, and acquire new skills that we can apply to advance our team project. It is a week for building skills that will set each of us apart and serve us in the workplace for years to come. 
@@ -184,7 +181,7 @@ SCAMPER stands for the following:
 7. **R**everse
 
 ## Making Decisions
-### A Evidence-Based Reasoning
+### A. Evidence-Based Reasoning
 Our team will be making a lot of decisions together including which solution we’d like to work on, what user interview questions to ask, and how our wireframes or prototype will look and function.
 
 Usually, when we’re trying to make a decision (as opposed to generating ideas), we should be using convergent thinking, which is intentionally trying to narrow down our choices. But how, exactly, do we go about doing that? Typically you use logic and evidence-based reasoning.
