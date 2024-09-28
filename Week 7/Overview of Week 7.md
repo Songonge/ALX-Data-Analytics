@@ -2,7 +2,7 @@
 
 ## Table of Contents  
 1. [Introduction](#introduction)
-2. [Creating Wireframes & Prototypes](#Creating-Wireframes-\&-Prototypes)
+2. [Creating Wireframes and Prototypes](#Creating-Wireframes-and-Prototypes)
    * [prototype](#prototype)
      * [Why Is Prototyping Important?](#Why-Is-Prototyping-Important)
      * [Steps you will be following to make a 3D prototype](#Steps-you-will-be-following-to-make-a-3D-prototype)
@@ -21,7 +21,7 @@
 ## Introduction
 This week is all about applying the creativity and innovation that I learned and heard so much about last week (week 6). Together with my amazing team, we will work towards the common goal we set up last week, and create the wireframes. 
 
-## Creating Wireframes & Prototypes
+## Creating Wireframes and Prototypes
 Our goal as a team is to create a feasible representation of our product, gather feedback, and iterate on it to make improvements. It does not have to be perfect, but it should be as close to the real idea as possible within our means.
 
 ### Prototype 
