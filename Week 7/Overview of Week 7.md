@@ -9,7 +9,7 @@
      * [Prototyping Material](#Prototyping-Material)
    * [B. Wireframe](#B-Wireframe)
      * [Steps for Creating Wireframes](#Steps-for-Creating-Wireframes)
-   * [Prioritizing Your Prototype Features](#Prioritizing-Your-Prototype-Features)
+   * [C. Prioritizing Your Prototype Features](#C-Prioritizing-Your-Prototype-Features)
 3. [Preparing to Pitch](#Preparing-to-Pitch)
    * [Pitching to Tech Leadership](#Pitching-to-Tech-Leadership)
    * [Considerations to Make Before Pitching to Technology Leadership](#considerations-to-make-before-pitching-to-technology-Leadership)
@@ -101,7 +101,7 @@ Once we are happy with what we have created and our team has reached an agreemen
 Check over everything that we have created to make sure that our wireframes are ready to show to our users. Is everything readable and clear? Will we be able to easily explain to our users what their experience would be like using our app or website? If so, we are
 good to go!
 
-### Prioritizing Your Prototype Features
+### C. Prioritizing Your Prototype Features
 So we have so many feature ideas for your prototype and you don’t know if you can do it all? Let’s try using the MoSCow prioritization method to fix this.
  
 The MoSCoW method stands for:  
