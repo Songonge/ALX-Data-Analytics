@@ -2,7 +2,7 @@
 
 ## Table of Contents  
 1. [Introduction](#introduction)
-2. [Creating Wireframes & Prototypes](#Creating-Wireframes-&-Prototypes)
+2. [Creating Wireframes & Prototypes](#Creating-Wireframes-\&-Prototypes)
    * [prototype](#prototype)
      * [Why Is Prototyping Important?](#Why-Is-Prototyping-Important)
      * [Steps you will be following to make a 3D prototype](#Steps-you-will-be-following-to-make-a-3D-prototype)
