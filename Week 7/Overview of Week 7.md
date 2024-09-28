@@ -3,20 +3,20 @@
 ## Table of Contents  
 1. [Introduction](#introduction)
 2. [Creating Wireframes and Prototypes](#Creating-Wireframes-and-Prototypes)
-   * [prototype](#prototype)
+   * [A. prototype](#A-prototype)
      * [Why Is Prototyping Important?](#Why-Is-Prototyping-Important)
      * [Steps you will be following to make a 3D prototype](#Steps-you-will-be-following-to-make-a-3D-prototype)
      * [Prototyping Material](#Prototyping-Material)
-   * [Wireframe](#Wireframe)
+   * [B. Wireframe](#B-Wireframe)
      * [Steps for Creating Wireframes](#Steps-for-Creating-Wireframes)
    * [Prioritizing Your Prototype Features](#Prioritizing-Your-Prototype-Features)
 3. [Preparing to Pitch](#Preparing-to-Pitch)
    * [Pitching to Tech Leadership](#Pitching-to-Tech-Leadership)
-   * [Considerations to Make Before Pitching to Technology Leadership](#considerations-to-make-before-pitching to-technology-leadership)
+   * [Considerations to Make Before Pitching to Technology Leadership](#considerations-to-make-before-pitching-to-technology-Leadership)
 4. [Key Career Skills](#Key-Career-Skills)
    * [Imposter Syndrome](#Imposter-Syndrome)
    * [How to Deal with Imposter Syndrome](#How-to-Deal-with-Imposter-Syndrome)
-   * [More Suggestions on How to Deal with Imposter Syndrome](#More Suggestions-on-How to-Deal-with-Imposter-Syndrome)
+   * [More Suggestions on How to Deal with Imposter Syndrome](#More-Suggestions-on-How-to-Deal-with-Imposter-Syndrome)
 
 ## Introduction
 This week is all about applying the creativity and innovation that I learned and heard so much about last week (week 6). Together with my amazing team, we will work towards the common goal we set up last week, and create the wireframes. 
