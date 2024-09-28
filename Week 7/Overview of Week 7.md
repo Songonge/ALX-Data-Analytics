@@ -24,7 +24,7 @@ This week is all about applying the creativity and innovation that I learned and
 ## Creating Wireframes and Prototypes
 Our goal as a team is to create a feasible representation of our product, gather feedback, and iterate on it to make improvements. It does not have to be perfect, but it should be as close to the real idea as possible within our means.
 
-### Prototype 
+### A. Prototype 
 A prototype is an early version of a product or design used to test and improve its features before the final version is made. It helps gather feedback, identify issues, and refine the concept before production.  
 Imagine a prototype as a sneak peek or a preview of something exciting you’re creating! It’s like a rough draft or a mock-up that lets you test out your ideas and see how they work in practice. Think of it as a “pretend” version of your creation.  
 A prototype can be constructed from any material, as long as it represents an idea or concept as simply as possible. A basic prototype should take a matter of hours to design and less than a day to build. It should represent the bare minimum needed to visualize an idea and bring it to life.
@@ -67,7 +67,7 @@ We almost never get things right the first time! That’s why we need a prototyp
 4. **3D printing with eco-friendly filaments**: If 3D printing is accessible, students can use eco-friendly filaments made from biodegradable materials.
 5. **Natural materials**: Students can explore using materials found in nature, such as wood, bamboo, or natural fibers. These can be used for creating eco-friendly prototypes with a more organic feel.
 
-### Wireframe
+### B. Wireframe
 A wireframe is a visual representation or blueprint that outlines the basic structure, layout, and user interface elements of a digital product, such as a website or mobile app.
 It is a simplified and low-fidelity representation that focuses on the arrangement and placement of key elements, such as content blocks, buttons, menus, and images. Wireframes typically omit detailed design elements like colors, typography, and imagery, and instead prioritize the overall layout and user flow.
 They serve as a visual guide for designers, developers, and stakeholders to understand the structure and functionality of a digital product before moving on to the detailed design phase.
